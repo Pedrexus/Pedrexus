@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pedrexus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pedro Valois
+- 👀 I’m interested in Machine Learning and Web Development
+- 🌱 I’m currently starting my PhD in Computer Vision in Japan
+- 💞️ I’m looking to collaborate on Open Source projects
+- 📫 Reach me through vaz.valois@hotmail.com
 
 <!---
 Pedrexus/Pedrexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
